@@ -29,7 +29,7 @@ body {
 }
 
 .content {
-  border-top: 1px solid hsla(0, 0%, 30%, .8);
+  border-top: 10px solid hsla(0, 0%, 30%, .8);
 }
 
 .head, .about {
@@ -57,18 +57,17 @@ img:hover {
 }
 
 .profile-card {
-  background-color: hsla(0, 0%, 100%, .5);
+  background-color:	 hsla(10, 0%, 100%, .7);
   border-radius: 15px;
-  box-shadow: hsla(0, 0%, 0%, .8) 5px 5px 30px;
 }
 
 
 ul {
-  list-style-type: none;
+  list-style-type:none
 }
 
 li {
-  display: inline;
+   display: inline;
 }
 
 a{
